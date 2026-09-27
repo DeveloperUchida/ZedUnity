@@ -1,0 +1,16 @@
+{
+  "name": "com.developeruchida.zed-unity",
+  "version": "0.1.0",
+  "displayName": "Zed Unity",
+  "description": "Zed editor integration for Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "DeveloperUchida"
+  },
+  "keywords": [
+    "zed",
+    "editor",
+    "ide",
+    "csharp"
+  ]
+}

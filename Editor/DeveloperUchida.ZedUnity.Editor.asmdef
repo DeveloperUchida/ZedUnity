@@ -1,0 +1,7 @@
+{
+  "name": "DeveloperUchida.ZedUnity.Editor",
+  "rootNamespace": "DeveloperUchida.ZedUnity",
+  "includePlatforms": [
+    "Editor"
+  ]
+}
